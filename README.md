@@ -31,7 +31,7 @@ Employee -> Copilot Studio -> Power Automate -> SharePoint List
    - Category (Choice)
    - Priority (Choice)
    - Description (Multiple lines of text)
-4. Configure connection references, provide the ENV_SharePointSiteURL and ENV_SharePointList
+4. Configure connection references, update the ENV_SharePointSiteURL and ENV_SharePointList
 5. Publish the agent.
 
 
