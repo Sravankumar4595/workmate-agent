@@ -11,6 +11,7 @@ Build an agent for Employee self-service assistant for IT, HR and Asset requests
 ## Architecture
 
 Employee -> Copilot Studio -> Power Automate -> SharePoint List
+<img width="1766" height="1036" alt="Image" src="https://github.com/user-attachments/assets/452688eb-6fa4-48ac-b63c-83972ba21593" />
 
 ## Prerequisites
 
