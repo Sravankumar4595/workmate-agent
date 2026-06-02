@@ -23,7 +23,7 @@ Employee -> Copilot Studio -> Power Automate -> SharePoint List
 
 ## Deployment Steps
 
-1. Download the solution:  `WorkmateAssistant_1_0_0_1.zip`.
+1. Download the solution:  `WorkmateAssistant_1_0_0_2.zip`.
 2. Import solution into Power Platform.
 3. Create SharePoint list `WorkMateRequests`.
    - Employee (PeoplePicker)
